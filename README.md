@@ -1,5 +1,3 @@
-# Redactor
-
 # The  Redactor
 The Redactor is a program for hiding sensitive information such as *Names*, and *places* from the public. The process of redacting is a time taking and expensive  process. In this project, a program to redact the sensitive information such as *Names*, *Genders*, *Addresses*, *Dates* and *Phone numbers*. The project is compatible with Python 3.7.2 and the packages used are *google.cloud* and *nltk*. These packages are used to perform natural language processing on the text extracted so as to identify the named-entities from the files and hide them.
 
